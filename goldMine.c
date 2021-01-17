@@ -1,3 +1,6 @@
+//This code is for the problem https://www.geeksforgeeks.org/gold-mine-problem/
+//This code does not use DP but still has the same time complexity.
+
 #include<stdio.h>
 
 void solve(int n,int m,int a[n][m]){
