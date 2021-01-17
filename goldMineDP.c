@@ -1,3 +1,6 @@
+//This is the DP solution for the problem https://www.geeksforgeeks.org/gold-mine-problem/
+
+
 #include<stdio.h>
 
 void solve(int n,int m,int a[n][m])
